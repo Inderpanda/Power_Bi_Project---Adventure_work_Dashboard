@@ -2,6 +2,11 @@
 
 ![Dashboard](https://github.com/Inderpanda/Adventure_work_Dashboard/assets/138003751/5b0916bc-79df-4a5f-940b-2c4292d55c70)
 
+
+📊 𝐋𝐢𝐯𝐞 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧: https://shorturl.at/lFKL2
+
+
+
 1. Connecting and shaping data :- Connected the data, shape and transform tables using profiling tools, edit, merge and append queries.
 
 2. Created a data model :- Build relational models, creating table relationships, understand cardinality and filter flow.
